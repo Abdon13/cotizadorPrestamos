@@ -54,7 +54,7 @@ function App() {
     <div className="my-20 max-w-lg mx-auto bg-white shadow p-10">
       <Header/>
 
-      <div className="felx justify-between my-14">
+      <div className="flex justify-between my-14">
         <Button
           operador="-"
           fn={handleClickDecremento}
